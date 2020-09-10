@@ -1,0 +1,87 @@
+p {
+  font-family: roboto;
+}
+.navmenu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+  text-decoration: none;
+  box-shadow: 3px 3px 5px gray;
+}
+.navmenu li {
+  display: inline;
+  color: gray;
+  font-weight: bold;
+}
+body {
+  background-image: url(../images/fond2.jpg);
+  background-size: contain;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  color: rgb(12, 12, 61);
+  font-family: roboto;
+}
+
+h2 {
+  color: rgb(66, 65, 65);
+  box-shadow: 3px 3px 5px gray;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  color: darkcyan;
+}
+h4 {
+  color: darkcyan;
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
+img {
+  margin: auto;
+}
+.rounded {
+  border-radius: 50px;
+}
+img {
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+iframe {
+  display: block;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Home {
+  padding-bottom: 80px;
+}
+#Aboutme {
+  padding-top: 10px;
+}
+#Work {
+  padding-top: 80px;
+}
+#Resume {
+  padding-top: 80px;
+}
+.resume {
+  display: inline-block;
+  margin-left: 80px;
+}
+#Contactme {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+footer li {
+  display: inline-block;
+}
